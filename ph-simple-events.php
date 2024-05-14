@@ -5,11 +5,11 @@
 
 /*
     Plugin Name: PH Simple events
-    Plugin URI: https://petrhuli.com
+    Plugin URI: https://github.com/HuldaCZ/ph-simple-events
     Description: This plugin allows you to create and manage events
     Version: 1.0.0
     Author: Petr Huli
-    Author URI: https://petrhuli.com
+    Author URI: https://www.petrhuli.com
     License: GPLv2 or later
     Text Domain: ph-simple-events
  */
